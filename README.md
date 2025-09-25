@@ -1,2 +1,2 @@
 # mvp_melbourne-_housing
-Análise exploratória de para estimar o preço de imóveis na cidade de Melbourne
+Análise exploratória para estimar o preço de imóveis na cidade de Melbourne
