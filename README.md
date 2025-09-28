@@ -94,4 +94,4 @@ Variável alvo: Preço de venda (log-transformado)
 
 
 ## 🚀 Execute o Notebook no Google Colab
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HuriAnn/mvp_riscos_financeiros/blob/main/MVP_An%C3%A1lise_Riscos_Financeiros.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HuriAnn/mvp_melbourne-_housing/blob/main/MVP_Melbourne__Housing_Dataset.ipynb)
